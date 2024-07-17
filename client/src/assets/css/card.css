@@ -1,0 +1,20 @@
+.cardStyle{
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    padding: 16px;
+    margin: 16px;
+    width: 200px;
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.4);
+}
+.imageStyle{
+    width: 100%;
+    height: auto;
+    border-radius: 20px;
+}
+
+.listStyle{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
